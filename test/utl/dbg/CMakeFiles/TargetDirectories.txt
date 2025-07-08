@@ -1,0 +1,3 @@
+C:/Users/fcarv/OneDrive/Documentos/Faculdade/DAF/fwdev/test/utl/dbg/CMakeFiles/app.dir
+C:/Users/fcarv/OneDrive/Documentos/Faculdade/DAF/fwdev/test/utl/dbg/CMakeFiles/edit_cache.dir
+C:/Users/fcarv/OneDrive/Documentos/Faculdade/DAF/fwdev/test/utl/dbg/CMakeFiles/rebuild_cache.dir
